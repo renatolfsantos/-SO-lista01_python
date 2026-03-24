@@ -2,7 +2,7 @@ Autor: Renato Luis Ferreira dos Santos <br/>
 Matéria: Sistemas Operacionais
 
 <h2><strong>Lista de exercícios propostos na tarefa introdução ao python para SO</strong></h2>
-<strong>1.</strong> Coletar o valor do lado de um quadrado, calcular sua área e apresentar o resultado.</br>
+<strong>1.</strong> Coletar o valor do lado de um quadrado, calcular sua área e apresentar o resultado.</br></br>
 
 **2.** Receba o salário de um funcionário e mostre o novo salário com reajuste de 15%.</br>
 
